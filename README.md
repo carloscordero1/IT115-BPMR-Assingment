@@ -7,7 +7,7 @@ Team Order
 4. Kim
 5. Wendy
 6. Charlie
-7. Grace
-8. Eyerusalem
+7. Eyerusalem
+8. Grace
 
 
