@@ -2,12 +2,12 @@
 
 Team Order
 
-1.
-1.
-1.
-1.
-1.
-1.
-1.
+1. Carlos 
+3. Jade
+4. Kim
+5. Wendy
+6. Charlie
+7. Grace
+8. Eyerusalem
 
 
